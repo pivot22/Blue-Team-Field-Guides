@@ -72,7 +72,7 @@ process.parent.command_line : "*powershell*" AND process.name : "cmd.exe"
 
 ---
 
-## Phase 1: Initial Reconnaissance & Data Validation
+## Phase 1: Data Validation
 
 ### Data Source Validation
 ```kql
