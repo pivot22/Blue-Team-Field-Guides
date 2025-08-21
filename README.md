@@ -1,5 +1,3 @@
-# Blue-Team-Field-Guides
-
 # 🛡️ Blue Team Field Guides
 
 A collection of **field-ready threat hunting cheatsheets** for security analysts, incident responders, and blue teamers.  
